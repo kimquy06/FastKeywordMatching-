@@ -1,6 +1,6 @@
 # FastKeywordMatching-
 Rabin–Karp algorithm is known as state-of-the-art of string searching matching.
-I've implemted Rabin-Karp idea for keywords matching. 
+I've implemented Rabin-Karp idea for keywords matching. 
 The use case is to check if a document contains words in blacklist or whitelist.
 For your reference: 
 1- http://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm
